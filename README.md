@@ -5,12 +5,54 @@
 
 ---
 
-## 📊 LeetCode & Coding Metrics
+## 💻 LeetCode Stats Profile
 
-<p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/Samad_07?theme=dark" alt="Samad's LeetCode Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Samad-OG&show_icons=true&theme=dark&hide_border=true" alt="Samad's GitHub Stats" width="48%" />
-</p>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <!-- Left Column: Solved Stats Gauge -->
+    <td width="55%" align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117;">
+      <h3 align="left" style="margin-top:0;">🧩 Problem Solving Overview</h3>
+      <table width="100%">
+        <tr>
+          <td align="center" width="50%">
+            <!-- SVG Progress Gauge -->
+            <svg width="140" height="140" viewBox="0 0 36 36">
+              <path stroke="#21262d" stroke-width="3.8" fill="none" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+              <!-- Easy (Green) -->
+              <path stroke="#00B8A3" stroke-width="3.8" stroke-dasharray="25, 100" stroke-linecap="round" fill="none" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+              <!-- Medium (Yellow) -->
+              <path stroke="#FFC01E" stroke-width="3.8" stroke-dasharray="15, 100" stroke-dashoffset="-25" stroke-linecap="round" fill="none" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+              <!-- Hard (Red) -->
+              <path stroke="#FF375F" stroke-width="3.8" stroke-dasharray="8, 100" stroke-dashoffset="-40" stroke-linecap="round" fill="none" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+              <text x="18" y="18" fill="#ffffff" font-size="6px" text-anchor="middle" font-weight="bold">18</text>
+              <text x="18" y="23" fill="#8b949e" font-size="3px" text-anchor="middle">Solved</text>
+            </svg>
+          </td>
+          <td width="50%">
+            <p style="color: #00B8A3; margin: 4px 0;"><b>Easy</b> <span style="float:right; color:#8b949e;">9 / 963</span></p>
+            <hr style="border-color:#21262d; margin:2px 0;">
+            <p style="color: #FFC01E; margin: 4px 0;"><b>Medium</b> <span style="float:right; color:#8b949e;">9 / 2111</span></p>
+            <hr style="border-color:#21262d; margin:2px 0;">
+            <p style="color: #FF375F; margin: 4px 0;"><b>Hard</b> <span style="float:right; color:#8b949e;">3 / 973</span></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Right Column: Languages & Badges -->
+    <td width="45%" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117;">
+      <h3 align="left" style="margin-top:0;">🏆 Top Languages</h3>
+      <p><b>Java</b> <span style="float:right; color:#8b949e;">15 Solved</span></p>
+      <p><b>C++</b> <span style="float:right; color:#8b949e;">6 Solved</span></p>
+      <p><b>MySQL</b> <span style="float:right; color:#8b949e;">1 Solved</span></p>
+      <br>
+      <p align="center">
+        <a href="https://leetcode.com/u/Samad_07/" target="_blank">
+          <img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
