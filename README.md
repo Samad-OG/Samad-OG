@@ -5,24 +5,15 @@
 
 ---
 
-## 🧩 LeetCode Statistics
+## ⚡ GitHub Activity Metrics
 
 <p align="center">
-  <a href="https://leetcode.com/u/Samad_07/">
-    <img src="https://leetcode-stats-api.herokuapp.com/Samad_07?theme=dark" alt="LeetCode Stats" width="49%" />
-  </a>
-  <a href="https://leetcode.com/u/Samad_07/">
-    <img src="https://leetcard.jacoblin.cool/Samad_07?theme=dark&font=Fira%20Code" alt="LeetCode Card" width="49%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samad-OG&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samad-OG&theme=dark&hide_border=true" width="49%" />
 </p>
 
----
-
-## ⚡ GitHub Activity & Metrics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samad-OG&show_icons=true&theme=dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samad-OG&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samad-OG&theme=github-dark&hide_border=true" width="99%" />
 </p>
 
 ---
