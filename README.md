@@ -1,4 +1,4 @@
- # Hi there, I'm Samad Adil 👋
+# Hi there, I'm Samad Adil 👋
 
 🚀 **B.Tech CSE (Data Science) Student | AI & ML Developer**  
 *Building real-world Machine Learning systems, predictive models, and intelligent AI applications.*
@@ -8,9 +8,9 @@
 ## 💻 Dynamic LeetCode Stats Profile
 
 <p align="center">
-  <!--LEETCODE-STATS:START-->
-  <img src="https://leetcode-stats-badge.vercel.app/api?username=Samad_07&theme=dark" alt="Samad's LeetCode Stats" width="85%" />
-  <!--LEETCODE-STATS:END-->
+  <a href="https://leetcode.com/u/Samad_07/">
+    <img src="https://leetcard.jacoblin.cool/Samad_07?theme=dark&font=Syne&ext=activity" alt="Samad's LeetCode Stats" />
+  </a>
 </p>
 
 ---
@@ -46,4 +46,3 @@
   <a href="mailto:samadadil1432005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Samad_07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
-
