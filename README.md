@@ -1,164 +1,236 @@
 # 👋 Hi there, I'm Samad Adil
 
-### 🚀 B.Tech CSE (Data Science) Student | AI & ML Developer
+### `B.Tech CSE (Data Science)` • `AI/ML Developer` • `Builder`
 
-Building real-world Machine Learning systems, predictive models, and intelligent AI applications.
+> I don't just learn technology — I build with it. 🚀
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Samad-OG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Samad-OG?label=Followers&style=flat" alt="Followers" />
+Currently exploring **Machine Learning, AI, Data Structures & Algorithms, RAG and Predictive Modeling** while turning ideas into real-world projects.
+
+---
+
+## ⚡ SAMAD // CODE MODE
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Samad-OG&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Samad-OG?style=for-the-badge&logo=github&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/Samad-OG?style=for-the-badge&logo=github&label=STARS" />
+</p>
+
+<p align="center">
+  🔥 <b>CODE</b> &nbsp; • &nbsp;
+  🧠 <b>LEARN</b> &nbsp; • &nbsp;
+  🚀 <b>BUILD</b> &nbsp; • &nbsp;
+  🔁 <b>REPEAT</b>
 </p>
 
 ---
 
-# ⚡ My Coding Dashboard
+## 🔥 THE GRIND
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samad-OG&theme=github-dark-blue&hide_border=true" width="75%" />
+</p>
+
+<p align="center">
+  <b>DON'T BREAK THE CHAIN.</b>
+</p>
+
+> Every push is a step forward.
+
+---
+
+## 📈 CODING ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samad-OG&theme=github-dark&hide_border=true&area=true&custom_title=Samad%27s%20Coding%20Activity" width="100%" />
+</p>
+
+> 🟩 Every contribution represents something I built, fixed, learned or improved.
+
+---
+
+## 🏆 THE JOURNEY
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" />
+</p>
+
+<p align="center">
+  <b>LEARN</b> → <b>BUILD</b> → <b>BREAK</b> → <b>DEBUG</b> → <b>IMPROVE</b> → 🔁
+</p>
+
+<p align="center">
+  <i>Repeat until the impossible becomes normal.</i>
+</p>
+
+---
+
+## 🏅 MILESTONES
+
+| 🏆 Achievement | Status |
+|:---|:---:|
+| 🚀 First GitHub Commit | ✅ |
+| 💻 First Real Project | ✅ |
+| 🧠 First DSA Solution | ✅ |
+| 🔥 7 Day Coding Streak | 🎯 |
+| ⚡ 25 DSA Problems | 🎯 |
+| 🏆 50 DSA Problems | 🔒 |
+| 💎 100 DSA Problems | 🔒 |
+| 🔥 30 Day Streak | 🔒 |
+| 🚀 500 Contributions | 🔒 |
+
+---
+
+## 🧠 TECH STACK
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🚀 THINGS I'M BUILDING
+
+### 👕 zipRIGHT
+**AI-Powered Virtual Trial Room**
+
+Exploring smartphone-based body scanning, accurate measurements and virtual try-on technology to tackle one of online fashion's biggest problems:
+
+> **"Will it actually fit me?"**
+
+---
+
+### 🧠 SkillSync AI
+An AI-powered personalized learning assistant that transforms a topic or syllabus into a customized learning journey with roadmaps, summaries, quizzes, flashcards and adaptive recommendations.
+
+---
+
+### 🚗 Car Price Prediction
+An end-to-end Machine Learning project for estimating vehicle market values using predictive modeling.
+
+**Stack:** Python • Pandas • Scikit-Learn • Machine Learning
+
+---
+
+### 🌦️ Weather Forecast
+A real-time weather application using API-based weather data and a web interface.
+
+**Stack:** JavaScript • API • Web
+
+---
+
+## 📊 GITHUB SNAPSHOT
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samad-OG&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samad-OG&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🧩 CURRENT QUEST
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samad-OG&theme=dark&hide_border=true" width="49%" />
+🎯 <b>MASTER DSA</b><br>
+Arrays → Searching → Trees → Graphs → DP
 
-<img src="https://github-readme-stats.vercel.app/api?username=Samad-OG&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
+<br><br>
+
+☕ <b>LEVEL UP JAVA</b><br>
+OOP → Collections → DSA
+
+<br><br>
+
+🤖 <b>BUILD BETTER ML SYSTEMS</b><br>
+Data → Model → Evaluation → Deployment
+
+<br><br>
+
+🧠 <b>EXPLORE GENAI + RAG</b><br>
+Build AI that actually solves problems
+
+<br><br>
+
+🌍 <b>OPEN SOURCE</b><br>
+Learn → Contribute → Collaborate
 
 </p>
 
 ---
 
-# 🔥 Coding Activity
+## 🎯 2026 MISSION
 
-### 📈 GitHub Contribution Graph
+- [ ] 🧠 Solve 100+ DSA problems
+- [ ] 🚀 Build 5+ meaningful projects
+- [ ] ☕ Become stronger in Java + DSA
+- [ ] 🤖 Build production-level ML projects
+- [ ] 🧠 Explore advanced GenAI / RAG
+- [ ] 🌍 Make my first Open Source contribution
+- [ ] 🔥 Maintain a consistent coding streak
+- [ ] 💼 Land a technical internship
+
+---
+
+## 💻 MY DEVELOPER LOOP
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samad-OG&theme=github-dark&hide_border=true&area=true" width="100%" />
+
+<b>LEARN</b>
+↓
+<b>BUILD</b>
+↓
+<b>BREAK</b>
+↓
+<b>DEBUG</b>
+↓
+<b>IMPROVE</b>
+↓
+<b>REPEAT</b>
+
 </p>
-
-> 💡 Every meaningful push contributes to my GitHub activity.
-> 
-> 🔥 Keep coding. Keep building. Keep improving.
-
----
-
-# 🧠 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Samad_07?theme=dark&font=Baloo%202&ext=heatmap" width="80%" />
-</p>
-
-### 🎯 My Goal
-
-> **Solve. Learn. Build. Repeat.**
-
-Currently working on:
-
-- 🧩 Data Structures & Algorithms
-- ☕ Java
-- 🐍 Python
-- 🤖 Machine Learning
-- 📊 Predictive Modeling
-- 🧠 RAG & AI Applications
-- 🚀 Real-world Projects
-
----
-
-# 🏆 Coding Milestones
-
-| Achievement | Status |
-|---|---|
-| 🚀 First GitHub Commit | ✅ Achieved |
-| 🧠 10+ DSA Problems | 🔄 In Progress |
-| ⚡ 25+ DSA Problems | 🔄 In Progress |
-| 🔥 7 Day Coding Streak | 🎯 Target |
-| 💻 100 GitHub Contributions | 🎯 Target |
-| 🏆 50 DSA Problems | 🎯 Target |
-| 💎 100 DSA Problems | 🔒 Locked |
-| 🔥 30 Day Coding Streak | 🔒 Locked |
-| 🚀 500 GitHub Contributions | 🔒 Locked |
-
----
-
-# 🛠️ Tech Stack & Skills
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
+  <i>The goal isn't to know everything.<br>
+  The goal is to keep getting better.</i>
 </p>
 
 ---
 
-# 📊 What I'm Learning
+## 🌐 CONNECT WITH ME
 
-```text
-Data Structures & Algorithms   ███████████░░░░░░░░░   Learning
-Java                           ██████████░░░░░░░░░░   Learning
-Python                         █████████████░░░░░░░   Strong
-Machine Learning               █████████░░░░░░░░░░░   Learning
-Predictive Modeling            ████████░░░░░░░░░░░░   Learning
-RAG / GenAI                    ██████░░░░░░░░░░░░░░   Exploring
-Full-Stack Development         █████░░░░░░░░░░░░░░░   Exploring
-| Project                                                | Description                                                                                  | Tech Stack                |
-| ------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------- |
-| 🚗 [Car Price Prediction](https://github.com/Samad-OG) | End-to-end ML pipeline to estimate vehicle market values.                                    | Python • Scikit-Learn     |
-| 🌦️ [Weather Forecast](https://github.com/Samad-OG)    | Web-based real-time weather tracking application.                                            | JavaScript • API          |
-| 🧠 [SkillSync AI](https://github.com/Samad-OG)         | AI-powered personalized learning assistant for creating adaptive learning roadmaps.          | AI • Web • RAG            |
-| 👕 zipRIGHT                                            | AI-powered virtual try-on concept focused on solving online fashion sizing and fit problems. | AI • Computer Vision • ML |
-Arrays              → █████████████░░░░░
-Strings             → ██████████░░░░░░░
-Binary Search       → █████████░░░░░░░░
-Linked Lists        → ██████░░░░░░░░░░░
-Stacks & Queues     → █████░░░░░░░░░░░░
-Trees               → ███░░░░░░░░░░░░░░░
-Graphs              → ██░░░░░░░░░░░░░░░░
-Dynamic Programming → █░░░░░░░░░░░░░░░░░
-💡 Currently Building
-🤖 AI & Machine Learning
+<p align="center">
+  <a href="https://github.com/Samad-OG">
+    <img src="https://img.shields.io/badge/GitHub-Samad--OG-181717?style=for-the-badge&logo=github" />
+  </a>
 
-Working on practical ML systems rather than just tutorials.
+  <a href="https://www.linkedin.com/in/samad-adil-7b3047220/">
+    <img src="https://img.shields.io/badge/LinkedIn-Samad%20Adil-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 
-👕 zipRIGHT
+  <a href="mailto:samadadil1432005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-Exploring an AI-powered virtual trial room concept using body scanning and virtual try-on technology.
+---
 
-🧠 AI Applications
+<p align="center">
 
-Experimenting with RAG, predictive models, intelligent assistants, and real-world AI workflows.
+### `BUILDING IN PUBLIC.`
 
-📈 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samad-OG&layout=compact&theme=dark&hide_border=true" width="42%" /> <img src="https://github-readme-stats.vercel.app/api?username=Samad-OG&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" /> </p>
-                 LEARN
-                   ↓
-                BUILD
-                   ↓
-                BREAK
-                   ↓
-                DEBUG
-                   ↓
-                IMPROVE
-                   ↓
-                REPEAT
-🎯 2026 Goals
- Solve 100+ DSA problems
- Build 5+ meaningful projects
- Strengthen Java & DSA
- Build production-level ML projects
- Learn advanced GenAI / RAG
- Contribute to Open Source
- Maintain a consistent GitHub streak
- Land my first technical internship 🚀
-🌐 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/samad-adil-7b3047220/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:samadadil1432005@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Samad-OG"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+### 🚀 One commit. One problem. One project at a time.
+
+**Thanks for visiting! 👋**
+
+</p>
